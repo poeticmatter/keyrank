@@ -1,0 +1,29 @@
+# Dependency directories
+/node_modules
+
+# Build directories
+/build
+/dist
+
+# Environment files
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor and IDE files
+.vscode
+.idea
+*.iml
+
+# macOS files
+.DS_Store
+
+# Logs and debugging files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Other generated files
+coverage/
